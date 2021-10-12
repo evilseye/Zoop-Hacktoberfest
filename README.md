@@ -21,7 +21,7 @@ Just add your **(yourname.md)** in the contributor folder and answer the followi
 
 ### 👀 TLDR Steps
 
-1. [Fork](https://help.github.com/articles/fork-a-repo/) this project
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this project 
 2. [Clone](https://help.github.com/articles/fork-a-repo/#step-2-create-a-local-clone-of-your-fork) your forked version `git clone git@github.com:<YOUR-USERNAME>/hacktoberfest-practice.git`
 3. Make changes 
 4. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what you have done)
@@ -97,4 +97,4 @@ git push -u origin <your_branch_name>
 
 13. Voila 🎉 You have made a PR to the this project. Sit back patiently and relax while the project maintainers review your PR.
 
-<h2 align="center">After your PR gets merged you can see yourself in this  <a href="https://evilseye.github.io/Zoop-Hacktoberfest/">Website 😎</a></h2>
+<h2 align="center">After your PR gets merged you can see yourself in this  <a href="https://evilseye.github.io/Zoop-Hacktoberfest/">Website</a><br>Star the repository 💙</h2>
