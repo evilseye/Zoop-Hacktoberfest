@@ -1,0 +1,371 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  background: #080c11;
+  /* background: #000428; 
+  background: -webkit-linear-gradient(
+    to right,
+    #aa80ff,
+    #080C11
+  ); 
+  background: linear-gradient(
+    to right,
+    #aa80ff,
+    #080C11
+  ); */
+}
+
+
+section {
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+  padding: 140px 0; 
+}
+
+.card {
+  position: relative;
+  min-width: 150px;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  border-radius: 15px;
+  margin: 0 auto;
+  padding: 20px 10px;
+  /* box-shadow: 0 10px 15px rgba(0,0,0,0.3); */
+  transition: .5s;
+}
+.card:hover {
+  transform:scale(1.1);
+}
+.card_red, .card_red .title .fa {
+  /* background: linear-gradient(-45deg, #5e91ff, #eee6ed); */
+  background: #4d79af;
+}
+.card_violet, .card_violet .title .fa  {
+  background: linear-gradient(-45deg, #f1ecf1, #349aec);
+}
+.card_three, .card_three .title .fa  {
+  /* background: linear-gradient(-45deg, #3d2e92, #0014c5); */
+}
+
+.card:before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 40%;
+  background: rgba(255, 255, 255, .1);
+  z-index: 1;
+  transform: skewY(-5deg) scale(1.5);
+}
+
+.title .fa {
+  color: #fff;
+  font-size: 60px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 100px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, .1);
+}
+.title h2 {
+  position: relative;
+  margin: 20px 0 0;
+  padding: 0;
+  color: #fff;
+  font-size: 28px;
+  z-index: 2;
+}
+
+
+.option {
+  position: relative;
+  z-index: 2;
+}
+.option ul {
+  margin: 0;
+  padding: 0;
+}
+.option ul li {
+  margin: 0 0 10px;
+  padding: 0;
+  list-style: none;
+  color: #fff;
+  font-size: 16px;
+}
+.card a {
+  display: block;
+  position: relative;
+  z-index: 2;
+  background-color: #fff;
+  /* color: #262ff; */
+  width: 150px;
+  height: 40px;
+  text-align: center;
+  margin: 20px auto 0;
+  line-height: 40px;
+  border-radius: 40px;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: none;
+  box-shadow: 0 5px 10px rgba(0,0,0, .1);
+}
+
+.commit{
+  font-weight: bold;
+}
+
+#imgbg{
+  border-radius: 50%;
+  width: 200px;
+}
+
+a {
+  font-weight: bold;
+  color: #6c757d;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+::selection {
+  background: #dbd6c4;
+  text-shadow: none;
+}
+
+footer {
+  padding: 2rem 0;
+  background-color: #fbfdff;
+}
+
+.footer-column:not(:first-child) {
+  padding-top: 2rem;
+}
+@media (min-width: 768px) {
+  .footer-column:not(:first-child) {
+    padding-top: 0rem;
+  }
+}
+
+.footer-column {
+  text-align: center;
+}
+.footer-column .nav-item .nav-link {
+  padding: 0.1rem 0;
+}
+.footer-column .nav-item span.nav-link {
+  color: #6c757d;
+}
+.footer-column .nav-item span.footer-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+}
+.footer-column .nav-item .fas {
+  margin-right: 0.5rem;
+}
+.footer-column ul {
+  display: inline-block;
+}
+@media (min-width: 768px) {
+  .footer-column ul {
+    text-align: left;
+  }
+}
+
+ul.social-buttons {
+  margin-bottom: 0;
+}
+
+ul.social-buttons li a:active,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:hover {
+  background-color: #6091c8;
+}
+
+ul.social-buttons li a {
+  font-size: 20px;
+  line-height: 40px;
+  display: block;
+  width: 40px;
+  height: 40px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  color: #fff;
+  border-radius: 100%;
+  outline: 0;
+  background-color: #1a1d20;
+}
+
+footer .quick-links {
+  font-size: 90%;
+  line-height: 40px;
+  margin-bottom: 0;
+  text-transform: none;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.copyright {
+  color: white;
+}
+
+.fa-ellipsis-h {
+  color: white;
+  padding: 2rem 0;
+}
+.discord-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
+
+.wrapper-buttons {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.wrapper-buttons > * {
+  margin-bottom: 10px;
+}
+
+
+.blue-button {
+  display: inline-block;
+  font-family: Whitney, "Open Sans", Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 11pt;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 45px;
+  width: 250px;
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
+}
+
+.blue-button {
+  background-color: #7289da;
+  border: 2px solid #7289da;
+  color: #fff;
+}
+
+
+.discord-shoutout * {
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+}
+
+.discord-shoutout {
+  position: fixed;
+  bottom: 2em;
+  right: 1em;
+  width: 300px;
+  z-index: 100;
+  text-align: left;
+  transition: 1s ease;
+  visibility: hidden;
+  opacity: 0;
+  transform: translate(1em, 50px);
+  filter: drop-shadow(10px 8px 0px rgba(0, 0, 0, 0.15));
+}
+.discord-shoutout:hover {
+  filter: drop-shadow(10px 8px 0px rgba(0, 0, 0, 0.25));
+}
+.discord-shoutout.online {
+  opacity: 1;
+  transform: translate(0, 0);
+  visibility: visible;
+}
+.discord-shoutout:after {
+  content: "";
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 50px 50px 0;
+  border-color: transparent #7289da transparent transparent;
+  position: absolute;
+  right: 0;
+  bottom: -25px;
+}
+.discord-shoutout .shoutout-inner {
+  color: #fff;
+  padding: 1em 1.5em 1.5em;
+  transition: box-shadow 0.3s ease;
+  background: transparent;
+  border-radius: 1em/1em;
+  overflow: hidden;
+  position: relative;
+}
+.discord-shoutout .shoutout-inner:after, .discord-shoutout .shoutout-inner:before {
+  content: "";
+  border-width: 0;
+  position: absolute;
+  box-sizing: border-box;
+  width: 100%;
+  background-color: #7289da;
+  z-index: -1;
+}
+.discord-shoutout .shoutout-inner:after {
+  height: 200%;
+  top: 0;
+  left: -46px;
+  transform: rotate(-18deg);
+}
+.discord-shoutout .shoutout-inner:before {
+  height: calc(100% - 25px);
+  right: 0;
+  top: 0;
+}
+.discord-shoutout .title {
+  display: block;
+  font-size: 1.2em;
+  margin: 0 0 1em 0;
+}
+.discord-shoutout p {
+  font-size: 0.9em;
+  font-weight: 300;
+  margin: 0 0 0.6em 0;
+}
+.discord-shoutout .discord-buttons {
+  margin-top: 1.4em;
+}
+.discord-shoutout .discord-button {
+  padding: 0.6em 1em;
+  color: white;
+  text-decoration: none;
+  background: transparent;
+  border: 0;
+  font-size: 0.9em;
+  cursor: pointer;
+}
+.discord-shoutout .discord-button.discord-primary {
+  border: 2px solid #fff;
+  border-radius: 6px;
+}
+.discord-shoutout .discord-button.discord-primary:hover {
+  background: #fff;
+  color: #7289da;
+}
+.discord-shoutout .discord-button.discord-secondary {
+  color: #fff;
+}
+.discord-shoutout .discord-button.discord-secondary:hover {
+  text-decoration: underline;
+}
+.discord-shoutout img {
+  position: absolute;
+  right: 1em;
+  top: 1em;
+  height: 1.4em;
+}
