@@ -5,17 +5,6 @@ body {
   padding: 0;
   font-family: "Roboto", sans-serif;
   background: #080c11;
-  /* background: #000428; 
-  background: -webkit-linear-gradient(
-    to right,
-    #aa80ff,
-    #080C11
-  ); 
-  background: linear-gradient(
-    to right,
-    #aa80ff,
-    #080C11
-  ); */
 }
 
 
@@ -35,21 +24,18 @@ section {
   border-radius: 15px;
   margin: 0 auto;
   padding: 20px 10px;
-  /* box-shadow: 0 10px 15px rgba(0,0,0,0.3); */
   transition: .5s;
 }
 .card:hover {
   transform:scale(1.1);
 }
 .card_red, .card_red .title .fa {
-  /* background: linear-gradient(-45deg, #5e91ff, #eee6ed); */
   background: #4d79af;
 }
 .card_violet, .card_violet .title .fa  {
   background: linear-gradient(-45deg, #f1ecf1, #349aec);
 }
 .card_three, .card_three .title .fa  {
-  /* background: linear-gradient(-45deg, #3d2e92, #0014c5); */
 }
 
 .card:before {
