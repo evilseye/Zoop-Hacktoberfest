@@ -1,7 +1,7 @@
 # Zoop 
 
 
-We have [Zoop Website](#) project in the organisation you can contribute to.
+We have [Zoop Website](https://evilseye.github.io/Zoop-Hacktoberfest/) project in the organisation you can contribute to.
 
 ## ⭐ What Is [Hacktoberfest](https://hacktoberfest.digitalocean.com/)?
 
@@ -97,4 +97,4 @@ git push -u origin <your_branch_name>
 
 13. Voila 🎉 You have made a PR to the this project. Sit back patiently and relax while the project maintainers review your PR.
 
-<h2 align="center">After your PR gets merged you can see yourself in this  <a href="#">Website 😎</a></h2>
+<h2 align="center">After your PR gets merged you can see yourself in this  <a href="https://evilseye.github.io/Zoop-Hacktoberfest/">Website 😎</a></h2>
