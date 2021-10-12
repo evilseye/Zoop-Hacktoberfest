@@ -1,7 +1,7 @@
 # Zoop 
 
 
-We have [Zoop Website](https://evilseye.github.io/Zoop-Hacktoberfest/) project in the organisation you can contribute to.
+We have [Zoop Website](https://evilseye.github.io/Zoop-Hacktoberfest/) project in the organisation you can contribute to. Please update this section !
 
 ## ⭐ What Is [Hacktoberfest](https://hacktoberfest.digitalocean.com/)?
 
