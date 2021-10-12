@@ -1,7 +1,7 @@
-# Add-Yourself-Hacktoberfest-Practice
+# Zoop 
 
 
-We have [Opentek Website](https://github.com/Opentek-Org/opentek) project in the organisation you can contribute to.
+We have [Zoop Website](#) project in the organisation you can contribute to.
 
 ## ⭐ What Is [Hacktoberfest](https://hacktoberfest.digitalocean.com/)?
 
@@ -16,8 +16,8 @@ Repo for you to raise a Pull Request for practice.
 Just add your **(yourname.md)** in the contributor folder and answer the following questions in your Markdown file
 - Introduce Yourself
 - Tech Stack you use
-- How did you discover Open Source?
- (as an example you can check **Anirudh.md**) or you can also contribute by doing any modifications in this Website.
+- How did you discover Zoop?
+ (as an example you can check **Amartya.md**) or you can also contribute by doing any modifications in this Website.
 
 ### 👀 TLDR Steps
 
@@ -34,19 +34,19 @@ Just add your **(yourname.md)** in the contributor folder and answer the followi
 2. Clone your forked copy of the project.
 
 ```bash
-git clone https://github.com/<your username>/hacktoberfest-practice-add-yourself.git
+git clone https://github.com/<your username>/zoop-hacktoberfest.git
 ```
 
 3. Change the working directory
 
 ```bash
-cd hacktoberfest-practice-add-yourself
+cd zoop-hacktoberfest
 ```
 
 4. Add a reference to the original repository.
 
 ```
-git remote add upstream https://github.com/Opentek-Org/hacktoberfest-practice-add-yourself
+git remote add upstream https://github.com/Opentek-Org/zoop-hacktoberfest
 ```
 
 5. Check the remotes for this repository.
@@ -97,4 +97,4 @@ git push -u origin <your_branch_name>
 
 13. Voila 🎉 You have made a PR to the this project. Sit back patiently and relax while the project maintainers review your PR.
 
-<h2 align="center">After your PR gets merged you can see yourself in this  <a href="https://addyourself.netlify.app/">Website 😎</a></h2>
+<h2 align="center">After your PR gets merged you can see yourself in this  <a href="#">Website 😎</a></h2>
