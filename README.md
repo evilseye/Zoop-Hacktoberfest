@@ -8,7 +8,7 @@
  |------------------------|-------|--------|-------|
  |Linkedin                |[Amartya Yadav](https://www.linkedin.com/in/iamartyaa/)|[Barmendu Chakraborty](https://www.linkedin.com/in/barmendu-chakraborty-749568216/)|[Harshit Sharma](https://www.linkedin.com/in/harshit-sharma-bb36b41b5/)|
   
- Zoop is in its initial stages, Contribute to it in every possible way you can: Bug fixes, Documentation, Indentation etc.
+ Zoop is in its initial stages, Contribute to it in every possible way you can: Bug fixes, Documentation, Indentation or even suggest your own issues etc.
 </p>
 
 Do visit our [Zoop Website](https://evilseye.github.io/Zoop-Hacktoberfest/).
