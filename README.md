@@ -46,7 +46,7 @@ cd zoop-hacktoberfest
 4. Add a reference to the original repository.
 
 ```
-git remote add upstream https://github.com/Opentek-Org/zoop-hacktoberfest
+git remote add upstream https://github.com/evilseye/zoop-hacktoberfest
 ```
 
 5. Check the remotes for this repository.
