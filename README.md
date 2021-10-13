@@ -1,5 +1,7 @@
 # Zoop 
-<strong>Zoop is single page application which displays name-card of all those who contributed to this repository.
+<strong>Zoop</strong> is single page application which displays name-card of all those who contributed to this repository. It is created with a sole intent of helping newbies into Open Source Contribution by guiding them to their intial Pull Requests.
+| Project Created |
+|Amartya|Barmendu|Harshit|
 
 Do visit our [Zoop Website](https://evilseye.github.io/Zoop-Hacktoberfest/).
 
