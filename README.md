@@ -1,7 +1,7 @@
 # Zoop 
+<strong>Zoop is single page application which displays name-card of all those who contributed to this repository.
 
-
-We have [Zoop Website](https://evilseye.github.io/Zoop-Hacktoberfest/) project in the organisation you can contribute to. Please update this section !
+Do visit our [Zoop Website](https://evilseye.github.io/Zoop-Hacktoberfest/).
 
 ## ⭐ What Is [Hacktoberfest](https://hacktoberfest.digitalocean.com/)?
 
