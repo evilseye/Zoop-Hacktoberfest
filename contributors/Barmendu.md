@@ -4,10 +4,10 @@ Hello everyone! My name is Barmendu Chakraborty and I am a IInd Year Bachelor of
 
 I like to find and explore new ways of development.
 
-### Tech Stacks I Use #####
+### Tech Stacks I Use
 
 C++, Kotlin, Html, CSS, JavaScript
 
-### How did I discover Zoop ###
+### How did I discover Zoop?
 
 It was very difficult. Don't ask.
