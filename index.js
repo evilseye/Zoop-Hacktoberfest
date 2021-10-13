@@ -28,7 +28,6 @@ const getData = async () => {
     console.log(error);
   }
 };
-
 getData();
 function show() {
   setTimeout(
