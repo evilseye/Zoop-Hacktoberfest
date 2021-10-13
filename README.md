@@ -19,12 +19,13 @@ Just add your **(yourname.md)** in the contributor folder and answer the followi
 - How did you discover Zoop?
  (as an example you can check **Amartya.md**) or you can also contribute by doing any modifications in this Website.
 - Copy & Paste the below code:
+ 
  '''
  ### Introduce Yourself
 
-### Tech Stack I use
+ ### Tech Stack I use
 
-### How did I discover Zoop?
+ ### How did I discover Zoop?
  
  '''
 
