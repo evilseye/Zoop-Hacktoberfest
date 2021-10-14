@@ -4,9 +4,9 @@
 <p align="center">
  This Project is founded by:
  
- |Let's Connect                 | Creator | Manager | Organiser |
- |------------------------|-------|--------|-------|
- |Linkedin                |[Amartya Yadav](https://www.linkedin.com/in/iamartyaa/)|[Barmendu Chakraborty](https://www.linkedin.com/in/barmendu-chakraborty-749568216/)|[Harshit Sharma](https://www.linkedin.com/in/harshit-sharma-bb36b41b5/)|
+ |Connect                 | Creator | Manager | Organiser | Reviewer |
+ |------------------------|---------|---------|-----------|----------|
+ |Linkedin                |[Amartya Yadav](https://www.linkedin.com/in/iamartyaa/)|[Barmendu Chakraborty](https://www.linkedin.com/in/barmendu-chakraborty-749568216/)|[Harshit Sharma](https://www.linkedin.com/in/harshit-sharma-bb36b41b5/)| [Simran Yadav](https://www.linkedin.com/in/simran-yadav-b016a6213)|
   
  Zoop is in its initial stages, Contribute to it in every possible way you can: Bug fixes, Documentation, Indentation or even suggest your own issues etc.
 </p>
