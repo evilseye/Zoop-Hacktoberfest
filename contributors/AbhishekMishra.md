@@ -1,0 +1,9 @@
+### Introduce Yourself
+I am a sophomore at Harcourt Butler Technical University, Kanpur. I am interested in Android development and currently pursuing Bachelor's in Technology in Information Technology (IT).
+
+I'm also interested in competitive programming and I actively participate on Codechef, Codeforces & HackerRank. I am always curious about things and enjoy learning.
+
+### Tech Stack I use
+C++, Python, Java
+### How did I discover Zoop?
+Through Whatsapp Group
