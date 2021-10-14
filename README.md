@@ -22,7 +22,7 @@ Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages parti
 
 Repo for you to raise a Pull Request for practice.
 
-Just add your **(yourname.md)** in the contributor folder and answer the following questions in your Markdown file
+Just add your **(username.md)** in the contributor folder and answer the following questions in your Markdown file
 - Introduce Yourself
 - Tech Stack you use
 - How did you discover Zoop?
