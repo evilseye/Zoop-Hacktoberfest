@@ -1,10 +1,10 @@
-# Zoop 
+# <p align="center">Zoop</p> 
 <strong>Zoop</strong> is single page application which displays name-card of all those who contributed to this repository. It is created with a sole intent of helping newbies into Open Source Contribution by guiding them to their intial Pull Requests.
 <p align="center">
  This Project is founded by:
  
- |Connect                 | Creator | Manager | Organiser | Analyst  |
- |------------------------|---------|---------|-----------|----------|
+ |Connect                 | Creator | Manager | Organiser | Collaborator  |
+ |------------------------|---------|---------|-----------|---------------|
  |Linkedin                |[Amartya Yadav](https://www.linkedin.com/in/iamartyaa/)|[Barmendu Chakraborty](https://www.linkedin.com/in/barmendu-chakraborty-749568216/)|[Harshit Sharma](https://www.linkedin.com/in/harshit-sharma-bb36b41b5/)| [Simran Yadav](https://www.linkedin.com/in/simran-yadav-b016a6213)|
   
  Zoop is in its initial stages, Contribute to it in every possible way you can: Bug fixes, Documentation, Indentation or even suggest your own issues etc.
