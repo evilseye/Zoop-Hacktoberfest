@@ -10,7 +10,9 @@ body {
 
 .head {
   font-family: "Space Grotesk", sans-serif;
-  background: linear-gradient(-45deg, #ec8160, #bb1051, #19a6da, #18d3a7);
+  /* background: linear-gradient(-45deg, #ec8160, #bb1051, #19a6da, #18d3a7); */
+  background: rgb(99,195,34);
+background: radial-gradient(circle, rgba(99,195,34,0.9500175070028011) 7%, rgba(37,111,89,1) 45%);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
   height: 8.5vh;
