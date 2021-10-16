@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
 
 body {
   margin: 0;
@@ -7,6 +8,31 @@ body {
   background: #080c11;
 }
 
+.head {
+  font-family: 'Space Grotesk', sans-serif;
+  background: linear-gradient(-45deg, #ec8160, #bb1051, #19a6da, #18d3a7);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 6.5vh;
+}
+
+@media (max-width: 768px) {
+  .head {
+    height:12.5vh;
+  }
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
 
 section {
   width: 100%;
