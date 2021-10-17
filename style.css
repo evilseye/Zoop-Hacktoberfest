@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:300');
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Roboto:300");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap");
 
 body {
   margin: 0;
@@ -8,37 +8,47 @@ body {
   background: #080c11;
 }
 
+<<<<<<< HEAD
+=======
 .head {
-  font-family: 'Space Grotesk', sans-serif;
-  background: linear-gradient(-45deg, #ec8160, #bb1051, #19a6da, #18d3a7);
-	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
-	height: 6.5vh;
+  font-family: "Space Grotesk", sans-serif;
+  /* background: linear-gradient(-45deg, #ec8160, #bb1051, #19a6da, #18d3a7); */
+  background: rgb(99,195,34);
+background: radial-gradient(circle, rgba(99,195,34,0.9500175070028011) 7%, rgba(37,111,89,1) 45%);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  height: 8.5vh;
 }
 
+>>>>>>> e38242ff061a1efa6d4facbdba50f3813c7441b0
 @media (max-width: 768px) {
   .head {
-    height:12.5vh;
+    height: 12.5vh;
+  }
+}
+@media (max-width: 268px) {
+  .head {
+    height: 16.5vh;
   }
 }
 
 @keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 
 section {
   width: 100%;
   height: 100vh;
   box-sizing: border-box;
-  padding: 140px 0; 
+  padding: 140px 0;
 }
 
 .card {
@@ -50,28 +60,31 @@ section {
   border-radius: 15px;
   margin: 0 auto;
   padding: 20px 10px;
-  transition: .5s;
+  transition: 0.5s;
 }
 .card:hover {
-  transform:scale(1.1);
+  transform: scale(1.1);
 }
-.card_red, .card_red .title .fa {
+.card_red,
+.card_red .title .fa {
   background: #4d79af;
 }
-.card_violet, .card_violet .title .fa  {
+.card_violet,
+.card_violet .title .fa {
   background: linear-gradient(-45deg, #f1ecf1, #349aec);
 }
-.card_three, .card_three .title .fa  {
+.card_three,
+.card_three .title .fa {
 }
 
 .card:before {
-  content: '';
+  content: "";
   position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
   height: 40%;
-  background: rgba(255, 255, 255, .1);
+  background: rgba(255, 255, 255, 0.1);
   z-index: 1;
   transform: skewY(-5deg) scale(1.5);
 }
@@ -84,7 +97,7 @@ section {
   border-radius: 50%;
   text-align: center;
   line-height: 100px;
-  box-shadow: 0 10px 10px rgba(0, 0, 0, .1);
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
 }
 .title h2 {
   position: relative;
@@ -94,7 +107,6 @@ section {
   font-size: 28px;
   z-index: 2;
 }
-
 
 .option {
   position: relative;
@@ -126,14 +138,14 @@ section {
   font-size: 16px;
   cursor: pointer;
   text-decoration: none;
-  box-shadow: 0 5px 10px rgba(0,0,0, .1);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
-.commit{
+.commit {
   font-weight: bold;
 }
 
-#imgbg{
+#imgbg {
   border-radius: 50%;
   width: 200px;
 }
@@ -253,7 +265,6 @@ footer .quick-links {
   margin-bottom: 10px;
 }
 
-
 .blue-button {
   display: inline-block;
   font-family: Whitney, "Open Sans", Helvetica, sans-serif;
@@ -271,7 +282,6 @@ footer .quick-links {
   border: 2px solid #7289da;
   color: #fff;
 }
-
 
 .discord-shoutout * {
   font-family: "Open Sans", sans-serif;
@@ -319,7 +329,8 @@ footer .quick-links {
   overflow: hidden;
   position: relative;
 }
-.discord-shoutout .shoutout-inner:after, .discord-shoutout .shoutout-inner:before {
+.discord-shoutout .shoutout-inner:after,
+.discord-shoutout .shoutout-inner:before {
   content: "";
   border-width: 0;
   position: absolute;
