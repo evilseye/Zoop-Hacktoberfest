@@ -8,6 +8,8 @@ body {
   background: #080c11;
 }
 
+<<<<<<< HEAD
+=======
 .head {
   font-family: "Space Grotesk", sans-serif;
   /* background: linear-gradient(-45deg, #ec8160, #bb1051, #19a6da, #18d3a7); */
@@ -18,6 +20,7 @@ background: radial-gradient(circle, rgba(99,195,34,0.9500175070028011) 7%, rgba(
   height: 8.5vh;
 }
 
+>>>>>>> e38242ff061a1efa6d4facbdba50f3813c7441b0
 @media (max-width: 768px) {
   .head {
     height: 12.5vh;
