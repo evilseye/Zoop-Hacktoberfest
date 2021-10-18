@@ -381,3 +381,14 @@ footer .quick-links {
   top: 1em;
   height: 1.4em;
 }
+.bg-light {
+  background-color: #6a7875!important;
+}
+footer {
+  padding: 1rem 0;
+  background-color: #fbfdff;
+}
+.text-center a
+{
+  color: #404244;
+}
