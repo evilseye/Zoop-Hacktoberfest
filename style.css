@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
-  background: #080c11;
+  background: linear-gradient(-45deg, #ec8160, #bb1051, #19a6da, #18d3a7);
 }
 
 .head {
@@ -56,7 +56,7 @@ section {
   transform:scale(1.1);
 }
 .card_red, .card_red .title .fa {
-  background: #4d79af;
+  background: #676868;
 }
 .card_violet, .card_violet .title .fa  {
   background: linear-gradient(-45deg, #f1ecf1, #349aec);
