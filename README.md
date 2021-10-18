@@ -121,4 +121,4 @@ git push -u origin <your_branch_name>
   <img src="https://contrib.rocks/image?repo=evilseye/Zoop-Hacktoberfest" />
 </a>
 
-<h2 align="center">After your PR gets merged you can see yourself in this  <a href="https://evilseye.github.io/Zoop-Hacktoberfest/">Website</a><br>Star the repository 💙</h2>
+<h2 align="center">After your PR gets merged you can see yourself in this  <a href="https://evilseye.github.io/Zoop-Hacktoberfest/">Website</a><br>Star the repository ⭐</h2>
