@@ -5,7 +5,31 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
-  background: #080c11;
+  background-image:radial-gradient(
+    circle at top right, 
+    black,
+    transparent 25%
+    ),
+    radial-gradient(
+        circle at top left , 
+        rgb(44, 39, 53),
+        transparent 50%   
+    ),
+    radial-gradient(
+        circle at top left , 
+        rgb(35, 18, 128),
+        transparent 50%   
+    ),
+    radial-gradient(
+        circle at bottom right , 
+        rgba(31, 16, 51, 0.116),
+        transparent 75%
+    ),
+    radial-gradient(
+        circle at bottom right , 
+        rgb(23, 31, 56),
+        transparent 50%
+    );
 }
 
 .head {
@@ -64,7 +88,7 @@ section {
 }
 .card_red,
 .card_red .title .fa {
-  background: #4d79af;
+  background: linear-gradient(#52aaa6 50px, #425dd6);;
 }
 .card_violet,
 .card_violet .title .fa {
@@ -312,7 +336,7 @@ footer .quick-links {
   height: 0;
   border-style: solid;
   border-width: 0 50px 50px 0;
-  border-color: transparent #7289da transparent transparent;
+  border-color: transparent rgb(156, 156, 156,0.2) transparent transparent;
   position: absolute;
   right: 0;
   bottom: -25px;
@@ -333,7 +357,7 @@ footer .quick-links {
   position: absolute;
   box-sizing: border-box;
   width: 100%;
-  background-color: #7289da;
+  background:linear-gradient(rgb(53, 90, 133),rgb(84, 7, 129),rgb(53, 90, 133));
   z-index: -1;
 }
 .discord-shoutout .shoutout-inner:after {
