@@ -10,7 +10,7 @@
  Zoop is in its initial stages, Contribute to it in every possible way you can: Bug fixes, Documentation, Indentation or even suggest your own issues etc.
 </p>
 
-<p align="center">Do visit our [Zoop Website](https://evilseye.github.io/Zoop-Hacktoberfest/).</p>
+Do visit our [Website](https://evilseye.github.io/Zoop-Hacktoberfest/)
 
 ## ⭐ What Is [Hacktoberfest](https://hacktoberfest.digitalocean.com/)?
 

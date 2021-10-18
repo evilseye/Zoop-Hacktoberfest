@@ -8,7 +8,9 @@ body {
   background-image:radial-gradient(
     circle at top right, 
     black,
+
     transparent 40%
+
     ),
     radial-gradient(
         circle at top left , 
@@ -28,7 +30,9 @@ body {
     radial-gradient(
         circle at bottom right , 
         rgb(23, 31, 56),
+
         transparent 25%
+
     );
 }
 
@@ -86,8 +90,10 @@ section {
 .card:hover {
   transform: scale(1.1);
 }
+
 .card_red, .card_red .title .fa {
   background:linear-gradient(#52aaa6 50px, #425dd6);
+
 }
 .card_violet, .card_violet .title .fa  {
   background: linear-gradient(-45deg, #1a0a1a, #349aec);
@@ -333,7 +339,9 @@ footer .quick-links {
   height: 0;
   border-style: solid;
   border-width: 0 50px 50px 0;
+
   border-color: transparent rgba(121, 121, 121, 0.2)transparent transparent;
+
   position: absolute;
   right: 0;
   bottom: -25px;
