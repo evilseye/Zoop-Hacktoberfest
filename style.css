@@ -5,6 +5,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
+
   background-image:radial-gradient(
     circle at top right, 
     black,
@@ -92,6 +93,7 @@ section {
 }
 
 .card_red, .card_red .title .fa {
+
   background:linear-gradient(#52aaa6 50px, #425dd6);
 
 }
@@ -417,4 +419,15 @@ footer .quick-links {
   right: 1em;
   top: 1em;
   height: 1.4em;
+}
+.bg-light {
+  background-color: #6a7875!important;
+}
+footer {
+  padding: 1rem 0;
+  background-color: #fbfdff;
+}
+.text-center a
+{
+  color: #404244;
 }
