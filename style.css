@@ -192,16 +192,16 @@ a:hover {
 }
 
 footer {
-  padding: 2rem 0;
+  padding: 2em 0;
   background-color: #96c1ec;
 }
 
 .footer-column:not(:first-child) {
-  padding-top: 2rem;
+  padding-top: 2em;
 }
 @media (min-width: 768px) {
   .footer-column:not(:first-child) {
-    padding-top: 0rem;
+    padding-top: 0;
   }
 }
 
@@ -209,7 +209,7 @@ footer {
   text-align: center;
 }
 .footer-column .nav-item .nav-link {
-  padding: 0.1rem 0;
+  padding: 0.1em 0;
 }
 .footer-column .nav-item span.nav-link {
   color: #6c757d;
@@ -221,7 +221,7 @@ footer {
   text-transform: uppercase;
 }
 .footer-column .nav-item .fas {
-  margin-right: 0.5rem;
+  margin-right: 0.5em;
 }
 .footer-column ul {
   display: inline-block;
@@ -271,7 +271,7 @@ footer .quick-links {
 
 .fa-ellipsis-h {
   color: white;
-  padding: 2rem 0;
+  padding: 2em 0;
 }
 .discord-logo {
   display: block;
@@ -424,7 +424,7 @@ footer .quick-links {
   background-color: #6a7875!important;
 }
 footer {
-  padding: 1rem 0;
+  padding: 1em 0;
   background-color: #fbfdff;
 }
 .text-center a
