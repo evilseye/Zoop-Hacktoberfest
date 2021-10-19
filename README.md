@@ -10,7 +10,7 @@
  Zoop is in its initial stages, Contribute to it in every possible way you can: Bug fixes, Documentation, Indentation or even suggest your own issues etc.
 </p>
 
-<p align="center">Do visit our [Zoop Website](https://evilseye.github.io/Zoop-Hacktoberfest/).</p>
+Do visit our [Website](https://evilseye.github.io/Zoop-Hacktoberfest/)
 
 ## ⭐ What Is [Hacktoberfest](https://hacktoberfest.digitalocean.com/)?
 
@@ -115,4 +115,10 @@ git push -u origin <your_branch_name>
 
 13. Voila 🎉 You have made a PR to the this project. Sit back patiently and relax while the project maintainers review your PR.
 
-<h2 align="center">After your PR gets merged you can see yourself in this  <a href="https://evilseye.github.io/Zoop-Hacktoberfest/">Website</a><br>Star the repository 💙</h2>
+
+## The contributors 🎉
+<a href="https://github.com/evilseye/Zoop-Hacktoberfest/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=evilseye/Zoop-Hacktoberfest" />
+</a>
+
+<h2 align="center">After your PR gets merged you can see yourself in this  <a href="https://evilseye.github.io/Zoop-Hacktoberfest/">Website</a><br>Star the repository ⭐</h2>
