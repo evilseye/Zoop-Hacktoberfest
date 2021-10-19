@@ -1,6 +1,6 @@
 const getData = async () => {
   const api =
-    "https://api.github.com/repos/evilseye/zoop-hacktoberfest/contributors2";
+    "https://api.github.com/repos/evilseye/zoop-hacktoberfest/contributors";
   try {
     let data = await fetch(api);
     realData = await data.json();
