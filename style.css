@@ -431,3 +431,15 @@ footer {
 {
   color: #404244;
 }
+
+.btn{
+  margin: 0px 2px 0px 2px;
+}
+.add-flex{
+  display: flex;
+  justify-content: center;
+  padding-left: 1px;
+}
+.me-auto{
+  margin-left: auto !important;
+}
