@@ -1,5 +1,5 @@
 # <p align="center">Zoop</p> 
-<strong>Zoop</strong> is single page application which displays name-card of all those who contributed to this repository. It is created with a sole intent of helping newbies into Open Source Contribution by guiding them to their intial Pull Requests.
+<strong>Zoop</strong> is single page application which displays name-card of all those who contributed to this repository. It is created with a sole intent of helping newbies into Open Source Contribution by guiding them to their initial Pull Requests.
 <p align="center">
  This Project is founded by:
  
