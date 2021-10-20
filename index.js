@@ -7,7 +7,7 @@ const getData = async () => {
     // console.log(realData);
     var html = '<div class="row">';
     for (i = 0; i < realData.length; i++) {
-      if (i % 5 == 0 && i != 0) {
+      if (i % 3 == 0 && i != 0) {
         html += "</div>";
         html += '<div class="row">';
       }
