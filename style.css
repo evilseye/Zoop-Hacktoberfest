@@ -89,7 +89,8 @@ section {
   transition: 0.5s;
 }
 .card:hover {
-  transform: scale(1.1);
+   transform: rotateY(360deg);
+
 }
 
 .card_red, .card_red .title .fa {
