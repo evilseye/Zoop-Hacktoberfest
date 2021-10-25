@@ -444,3 +444,7 @@ footer {
 .me-auto{
   margin-left: auto !important;
 }
+.img-fluid {
+    max-width: 97%;
+    height: auto;
+}
