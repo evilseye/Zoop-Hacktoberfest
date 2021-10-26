@@ -122,3 +122,8 @@ git push -u origin <your_branch_name>
 </a>
 
 <h2 align="center">After your PR gets merged you can see yourself in this  <a href="https://evilseye.github.io/Zoop-Hacktoberfest/">Website</a><br>Star the repository ⭐</h2>
+
+## Reach out to me 
+Facebook(url)
+Instagram(url)
+LinkedIn(url)

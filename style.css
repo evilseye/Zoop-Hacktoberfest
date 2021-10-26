@@ -444,7 +444,33 @@ footer {
 .me-auto{
   margin-left: auto !important;
 }
+
 .img-fluid {
     max-width: 97%;
     height: auto;
+
+.animated{
+  margin-top: 40px;
+  position: relative;
+  display: inline-block;
+  color: rgb(61, 139, 213);
+  font-size: 2em;
+  animation: animate 2s ease-in-out infinite;
+  font-family: 'Times New Roman', Times, serif;        
+}
+
+@keyframes animate {
+  0% {
+      transform: translateY(0px);
+  }
+
+  20% {
+      transform: translateY(-20px);
+  }
+
+  40%,
+  100% {
+      transform: translateY(0px);
+  }
+
 }
