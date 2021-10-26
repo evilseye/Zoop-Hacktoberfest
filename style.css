@@ -444,6 +444,11 @@ footer {
 .me-auto{
   margin-left: auto !important;
 }
+
+.img-fluid {
+    max-width: 97%;
+    height: auto;
+
 .animated{
   margin-top: 40px;
   position: relative;
@@ -467,4 +472,5 @@ footer {
   100% {
       transform: translateY(0px);
   }
+
 }
