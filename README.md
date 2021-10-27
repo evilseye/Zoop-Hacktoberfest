@@ -35,7 +35,14 @@ Just add your **(username.md)** in the contributor folder and answer the followi
  ### Tech Stack I use
 
  ### How did I discover Zoop?
+ 
  ```
+ **Example**
+ ``
+ ### Hey! There I'am John Doe
+ ### My preferred stack is MERN 
+ ### I got to know about Zoop from a friend 
+ 
 
 ### 👀 TLDR Steps
 
