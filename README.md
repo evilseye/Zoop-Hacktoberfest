@@ -134,4 +134,4 @@ git push -u origin <your_branch_name>
 ## Reach out to me 
 Facebook(url)
 Instagram(url)
-LinkedIn(url)
+[LinkedIn](https://www.linkedin.com/in/iamartyaa/)
