@@ -1,5 +1,5 @@
 ### Introduce Yourself
-My name is Ankit Majee 2nd year computer science undergrad ,I am new to open Source development and passionately eager to make contribution
+My name is Ankit Majee 2nd year computer science undergrad at Aliah University Kolkata ,I am new to open Source development and passionately eager to make contribution
 
 ### Tech Stack I us
 Tech I use HTMl,CSS,Bootstrap,JavaScript,Cpp,python.
